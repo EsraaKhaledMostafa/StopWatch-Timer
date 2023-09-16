@@ -9,7 +9,7 @@
 
 
 ## Required Functionalities:
-- Stop Watch start counting from 0 once Power is connected to the microcontroller.
+- The Stopwatch starts counting from 0 once the power is connected to the microcontroller.
 - Reset using INT0.
 - Pause using INT1.
 - Resume using INT2.
