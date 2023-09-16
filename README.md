@@ -4,7 +4,7 @@
 - Multiplexed 6 7segments.
 - Buttons, Buzzer, Resistors.
 
-## Project on Proteus 
+## Project on Proteus: 
 ![image](https://github.com/EsraaKhaledMostafa/StopWatch-Timer/assets/87395019/68c87a14-54df-487f-90f0-e2112f9b2c00)
 
 
