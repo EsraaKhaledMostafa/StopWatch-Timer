@@ -15,6 +15,6 @@
 - Resume using INT2.
 
 ## Added Functionalities:  
-- Setting the Time to start Counting either up or down.
+- Setting the Time from which the timer starts Counting either up or down.
 - Switching between Stop Watch Mode (Counting Up) & Timer Mode (Counting Down).
 - On choosing Timer Mode a beep sound alert is done on reaching time 0 to indicate that the timer has ended counting down.
